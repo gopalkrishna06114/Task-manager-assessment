@@ -25,7 +25,7 @@ export default function Register() {
     <div className="auth-page">
       <div className="auth-left">
         <div className="auth-left-logo">⬡</div>
-        <h1>Nexus</h1>
+        <h1>Task Manager</h1>
         <p>Join thousands of teams already using Nexus to build better products, faster.</p>
         <div className="auth-features">
           <div className="auth-feature"><div className="auth-feature-icon">✓</div> Free to get started</div>
