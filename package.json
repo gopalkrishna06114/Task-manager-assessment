@@ -1,0 +1,7 @@
+{
+  "name": "team-task-manager",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "cd server && node index.js"
+  }
+}

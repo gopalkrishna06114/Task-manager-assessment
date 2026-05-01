@@ -1,0 +1,8 @@
+[build]
+buildCommand = "cd client && npm install && npm run build && cd ../server && npm install"
+watchPatterns = ["server/**", "client/src/**"]
+
+[deploy]
+startCommand = "cd server && node index.js"
+restartPolicyType = "on_failure"
+restartPolicyMaxRetries = 3
