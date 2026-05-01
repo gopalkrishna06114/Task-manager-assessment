@@ -25,7 +25,7 @@ export default function Login() {
     <div className="auth-page">
       <div className="auth-left">
         <div className="auth-left-logo">⬡</div>
-        <h1>Nexus</h1>
+        <h1>Task Manager</h1>
         <p>The modern workspace for high-performing teams. Manage tasks, track progress, ship faster.</p>
         <div className="auth-features">
           <div className="auth-feature"><div className="auth-feature-icon">✓</div> Role-based team access</div>
