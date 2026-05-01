@@ -12,7 +12,7 @@ export default function Layout() {
       <aside className="sidebar">
         <div className="sidebar-logo">
           <div className="logo-icon">⬡</div>
-          <span className="logo-text">Nexus</span>
+          <span className="logo-text">Task Manager</span>
         </div>
         <nav className="sidebar-nav">
           <NavLink to="/" end className={({isActive}) => isActive ? 'nav-item active' : 'nav-item'}>
