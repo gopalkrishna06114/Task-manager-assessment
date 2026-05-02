@@ -37,7 +37,7 @@ export default function Register() {
       <div className="auth-right">
         <div className="auth-card fade-in">
           <div className="auth-card-header">
-            <h2>Create account 🚀</h2>
+            <h2>Create account</h2>
             <p>Get started for free — no credit card needed</p>
           </div>
           {error && <div className="auth-error">{error}</div>}
