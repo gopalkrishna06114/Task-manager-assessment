@@ -1,5 +1,8 @@
 # Task Manager - Collaborative Workspace for Teams
 
+🌐 **Live Demo:** [your-live-link-here](https://your-live-link-here.com)
+🎥 **Demo Video:** [Watch on YouTube](https://your-demo-video-link-here.com)
+
 Task Manager is a web-based project and task management platform built for teams that need clear ownership, priority tracking, and progress visibility across multiple projects. Team admins control project setup and task assignment, members update task statuses on their own workload. A live dashboard aggregates stats across all projects a user belongs to.
 
 ---
